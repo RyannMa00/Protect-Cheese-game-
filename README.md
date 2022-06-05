@@ -10,5 +10,5 @@
 
 ## How to play :video_game: 
 *  Run :point_right: *Play/protect_cheese.exe* :point_left: directly.
-*  OR run :point_right:*Protect Cheese/protect_cheese.py* :point_left:.
+*  OR run :point_right:*protect_cheese.py* :point_left:.
 * Use arrow keys to control the movement of the cat, and use space bar to fire bullets. 
