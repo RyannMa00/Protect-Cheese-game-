@@ -9,6 +9,6 @@
 * Pygame
 
 ## :video_game: How to play 
-* :point_right: Run Play/protect_cheese.exe directly
-* :point_right: OR Run Protect Cheese/protect_cheese.py
-* :star: Use the arrow keys to control the movement of the cat, and use the space to fire bullets 
+* :point_right: Run *Play/protect_cheese.exe* directly
+* :point_right: OR run *Protect Cheese/protect_cheese.py*
+* :star: Use the arrow keys to control the movement of the cat, and use the space to fire bullets. 
